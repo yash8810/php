@@ -1,0 +1,8 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+}

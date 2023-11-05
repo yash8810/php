@@ -1,0 +1,7 @@
+body{
+    background-image: url("munchbag logo.jpg");
+    background-color: transparent;
+    /* background-repeat: no-repeat; */
+    align-items: center;
+    background-size: cover; 
+}
